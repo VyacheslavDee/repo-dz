@@ -1,1 +1,7 @@
 Hello world
+<<<<<<< HEAD
+=======
+
+
+update from git
+>>>>>>> master
